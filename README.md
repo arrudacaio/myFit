@@ -1,8 +1,9 @@
-# boilerplate-node
+# myFit
 
 
 ### Todo list
 
 - [ ] Put GH Actions here
-- [x] Fix dockerfile
+- [ ] Deploy first
+
  
